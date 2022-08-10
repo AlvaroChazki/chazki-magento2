@@ -1,4 +1,4 @@
-# magento-plugin-argentina
+# magento 2 plugin
 
 # How to install this extension?
 
